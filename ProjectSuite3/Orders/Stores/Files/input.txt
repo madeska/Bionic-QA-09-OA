@@ -1,0 +1,6 @@
+ProductName,Quantity,Date,CustomerName,Street,City,State,Zip,CardNumber,expDate, Card
+"FamilyAlbum",3,"4/6/2015","Alexey Apanasenko","sechenova","kiev","ukraine","0344",MasterCard,"321233123","5/6/2015"
+"MyMoney",2,"5/6/2015","Alex Apanasenko1","sech","kiev","ukr","03312",Visa,"321233144423","6/6/2015"
+"ScreenSaver",1,"12/6/2015","Dasdas","dsadas","Dnepr","ukr","01212",AE,"09209210","13/6/2015"
+"MyMoney",1,"12/6/2015","zczxc","dsadas","Dnepr","ukr","01212",Visa,"09209210","13/6/2015"
+"ScreenSaver",1,"12/6/2015","qwe","dsadas","Dnepr","ukr","01212",MasterCard,"09209210","13/6/2015"
